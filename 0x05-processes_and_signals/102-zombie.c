@@ -1,6 +1,6 @@
 /*
  * File: 102-zombie.c
- * Auth: Nicholas M Mwanza
+ * Auth: Phillip Esuon
  */
 
 #include <stdio.h>
